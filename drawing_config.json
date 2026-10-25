@@ -1,0 +1,6 @@
+{
+    "hostAddress": "127.0.0.1",
+    "port": 7777,
+    "autoConnect": true,
+    "retryIntervalSeconds": 5.0
+}
